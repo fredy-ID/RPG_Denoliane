@@ -1,0 +1,28 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Unreal Engine
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Logs
+*.log
+
+# Packaging
+_Packages/ # ou le dossier que vous utilisez pour les builds pak
